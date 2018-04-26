@@ -34,7 +34,6 @@ class MainViewController: UITableViewController {
     }
     
     func addRefreshControl() {
-        // Add refresh control to TableView
         let refreshControl = UIRefreshControl()
         refreshControl.addTarget(self, action: #selector(refreshAction), for: .valueChanged)
         tableView.refreshControl = refreshControl

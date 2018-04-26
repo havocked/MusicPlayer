@@ -63,6 +63,8 @@ struct NetworkManager {
     }
 }
 
+// MARK: NetworkRessource extension
+
 extension NetworkManager : NetworkRessource {
     
     func getTopCharts(storeFront: StoreFront, completionHandler: @escaping ([ChartResult<Song>]) -> (), failure: @escaping (MSError) -> ()) {

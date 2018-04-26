@@ -104,6 +104,7 @@ class PlayerViewController: UIViewController {
         viewModel.userDidTapPlayButton()
     }
     
+    /// When the user swipe down the view will follow his gesture and can be dismissed by it.
     @IBAction func panGestureAction(_ sender: UIPanGestureRecognizer) {
         let touchPoint = sender.location(in: self.view?.window)
         
