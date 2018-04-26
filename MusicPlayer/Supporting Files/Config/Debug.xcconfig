@@ -1,0 +1,14 @@
+//
+//  Debug.xcconfig
+//  MusicPlayer
+//
+//  Created by Anonymous
+//
+
+#include "Pods/Target Support Files/Pods-MusicPlayer/Pods-MusicPlayer.debug.xcconfig"
+#include "Pods/Target Support Files/Pods-MusicPlayerTests/Pods-MusicPlayerTests.debug.xcconfig"
+#include "Pods/Target Support Files/Pods-MusicPlayerUITests/Pods-MusicPlayerUITests.debug.xcconfig"
+
+APPLE_MUSIC_KEY = eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkQ3MzM1REwzNTkifQ.eyJpc3MiOiJLN1dWNTg2N0s5IiwiaWF0IjoxNTI0NzI1NjY3LCJleHAiOjE1MjQ3Njg4Njd9.b7KGv8lCglLQDMhXKW_auxevTU09vlEAsextGGVEOtX_YGBd6gJ1Xu3Ik9STl6orb2Md7-x09ZxdTtDBTNCbMQ
+APPLE_MUSIC_API_BASE_URL = api.music.apple.com
+APPLE_MUSIC_API_VERSION = v1

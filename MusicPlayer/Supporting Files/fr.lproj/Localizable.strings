@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Technical Challenge
+
+  Created by Nataniel Martin on 16/04/2018.
+  Copyright © 2018 Nataniel Martin. All rights reserved.
+*/
+
+
+// MainViewController
+
+"MAIN_NAV_TITLE" = "Parcourir";
+"ALERT_OK_ACTION_TITLE" = "Ok";
+
+// MSError
+
+"ERROR_NO_PREVIEW" = "Pas d'extraits pour cette chanson";
+"ERROR_NO_RESULTS" = "Pas de resultats";
+"ERROR_DECODE" = "Erreur de decodade";
+
+"ERROR_ALERT_TITLE" = "Erreur";
+"ERROR_INTERNET" = "Verifiez votre connexion internet";
+"ERROR_UNKNOWN" = "Une erreur s'est produite";
+

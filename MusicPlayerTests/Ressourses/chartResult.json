@@ -1,0 +1,1037 @@
+
+{
+    "results": {
+        "songs": [
+                  {
+                  "name": "Classement des morceaux",
+                  "chart": "most-played",
+                  "href": "/v1/catalog/fr/charts?chart=most-played&limit=25&types=songs",
+                  "next": "/v1/catalog/fr/charts?chart=most-played&limit=25&offset=25&types=songs",
+                  "data": [
+                           {
+                           "id": "1367499680",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1367499680",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/b6/01/76/b6017686-0b12-32bf-53d2-994c82ebabbf/mzaf_2831320384570133400.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5d/a0/a6/5da0a6bd-3942-a34f-e08b-41e4271cf969/source/{w}x{h}bb.jpg",
+                           "bgColor": "211c26",
+                           "textColor1": "f0f7ef",
+                           "textColor2": "ccefee",
+                           "textColor3": "c7cbc7",
+                           "textColor4": "aac5c6"
+                           },
+                           "artistName": "Aya Nakamura",
+                           "url": "https://itunes.apple.com/fr/album/djadja/1367498917?i=1367499680",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "R&B/Soul",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 170160,
+                           "releaseDate": "2018-04-06",
+                           "name": "Djadja",
+                           "isrc": "FRZ041800369",
+                           "albumName": "Djadja - Single",
+                           "playParams": {
+                           "id": "1367499680",
+                           "kind": "song"
+                           },
+                           "trackNumber": 1,
+                           "composerName": "Le SIDE"
+                           }
+                           },
+                           {
+                           "id": "1335713934",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1335713934",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/44/5d/75/445d755a-37c0-5633-0684-65dcb566b389/mzaf_7987709460881620489.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3200,
+                           "height": 3200,
+                           "url": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/71/9a/94/719a94e7-6d18-c8da-cdd5-9c4b25524930/source/{w}x{h}bb.jpg",
+                           "bgColor": "080800",
+                           "textColor1": "ffffff",
+                           "textColor2": "dfdfdf",
+                           "textColor3": "cdcdcb",
+                           "textColor4": "b4b4b2"
+                           },
+                           "artistName": "Lartiste",
+                           "url": "https://itunes.apple.com/fr/album/mafiosa-feat-caroliina/1335713490?i=1335713934",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique",
+                                          "Hip-hop/Rap"
+                                          ],
+                           "durationInMillis": 193700,
+                           "releaseDate": "2018-02-23",
+                           "name": "Mafiosa (feat. Caroliina)",
+                           "isrc": "FR7IX1800030",
+                           "albumName": "Grandestino",
+                           "playParams": {
+                           "id": "1335713934",
+                           "kind": "song"
+                           },
+                           "trackNumber": 3,
+                           "composerName": "Lartiste & Caroliina"
+                           }
+                           },
+                           {
+                           "id": "1363899200",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1363899200",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/3e/77/63/3e7763c4-fd7c-7215-e0a3-319ac4dfccb6/mzaf_3602700619913679267.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/67/73/db/6773dbad-f17f-d5ac-20ae-fade4e82bb1d/source/{w}x{h}bb.jpg",
+                           "bgColor": "0f1117",
+                           "textColor1": "ffd000",
+                           "textColor2": "bbceec",
+                           "textColor3": "cea904",
+                           "textColor4": "99a8c1"
+                           },
+                           "artistName": "L'Algérino",
+                           "url": "https://itunes.apple.com/fr/album/va-bene/1363899192?i=1363899200",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 198267,
+                           "releaseDate": "2018-03-09",
+                           "name": "Va Bene",
+                           "isrc": "FRUM71800285",
+                           "albumName": "Taxi 5 (Bande originale inspirée du film)",
+                           "playParams": {
+                           "id": "1363899200",
+                           "kind": "song"
+                           },
+                           "trackNumber": 1,
+                           "composerName": "djamel Fezari, Aurélien Mazin & Nasser Mounder",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1353168211",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1353168211",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/00/d2/ae/00d2ae2d-10f2-64e6-45fa-5796f1b3d9d7/mzaf_8028855659631766643.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/ac/c3/c1/acc3c1fa-7192-791d-e366-2d9c090450fa/source/{w}x{h}bb.jpg",
+                           "bgColor": "000000",
+                           "textColor1": "fdbe10",
+                           "textColor2": "e78e00",
+                           "textColor3": "ca980c",
+                           "textColor4": "b97200"
+                           },
+                           "artistName": "Nicky Jam & J Balvin",
+                           "url": "https://itunes.apple.com/fr/album/x/1353167949?i=1353168211",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Urban latin",
+                                          "Musique",
+                                          "Latino"
+                                          ],
+                           "durationInMillis": 173628,
+                           "releaseDate": "2018-03-02",
+                           "name": "X",
+                           "isrc": "USSD11800024",
+                           "albumName": "X - Single",
+                           "playParams": {
+                           "id": "1353168211",
+                           "kind": "song"
+                           },
+                           "trackNumber": 1,
+                           "composerName": "J Balvin, Nick Rivera Caminero, Juan Diego Medina Vélez, Rashid Mohamed Siddiq Badloe, Shareef Mohamed Rachmet Badloe & Jonathan Bryan Thiel"
+                           }
+                           },
+                           {
+                           "id": "1355066338",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1355066338",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/82/5c/67/825c6720-4981-b5e0-fe4d-b8db221e325c/mzaf_7747689569509680767.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/91/01/fd/9101fd53-3d87-40e2-51c4-10bc769e22ae/source/{w}x{h}bb.jpg",
+                           "bgColor": "afaba8",
+                           "textColor1": "080707",
+                           "textColor2": "242121",
+                           "textColor3": "292727",
+                           "textColor4": "403d3c"
+                           },
+                           "artistName": "Maître Gims",
+                           "url": "https://itunes.apple.com/fr/album/la-m%C3%AAme-en-duo-avec-vianney/1355066096?i=1355066338",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Variété française",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 200040,
+                           "releaseDate": "2018-03-08",
+                           "name": "La même (en duo avec Vianney)",
+                           "isrc": "FR9W11803167",
+                           "albumName": "Ceinture noire",
+                           "playParams": {
+                           "id": "1355066338",
+                           "kind": "song"
+                           },
+                           "trackNumber": 5,
+                           "composerName": "Maître Gims, Vianney & Renaud Rebillaud"
+                           }
+                           },
+                           {
+                           "id": "1299173050",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1299173050",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/2f/f8/b4/2ff8b42e-0605-53ef-2ea9-4b5607417c1b/mzaf_1091000677411174103.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/34/c3/2e/34c32e6b-9da5-fcb5-e02b-181b7073bde5/source/{w}x{h}bb.jpg",
+                           "bgColor": "000000",
+                           "textColor1": "d8ecee",
+                           "textColor2": "bed6de",
+                           "textColor3": "adbdbf",
+                           "textColor4": "98abb2"
+                           },
+                           "artistName": "Dadju",
+                           "url": "https://itunes.apple.com/fr/album/bob-marley/1299173029?i=1299173050",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "R&B/Soul",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 214760,
+                           "releaseDate": "2017-11-24",
+                           "name": "Bob Marley",
+                           "isrc": "FR9W11721943",
+                           "albumName": "Gentleman 2.0",
+                           "playParams": {
+                           "id": "1299173050",
+                           "kind": "song"
+                           },
+                           "trackNumber": 8,
+                           "composerName": "Dadju & Seysey"
+                           }
+                           },
+                           {
+                           "id": "1363233595",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1363233595",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/1c/4c/4e/1c4c4e1d-826a-fc20-b76a-4637ca6ebc57/mzaf_6779519186036617830.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/2b/28/99/2b289922-1ef4-959b-aef6-7b2094c0844a/source/{w}x{h}bb.jpg",
+                           "bgColor": "010101",
+                           "textColor1": "ffffff",
+                           "textColor2": "dedede",
+                           "textColor3": "cccccc",
+                           "textColor4": "b1b1b1"
+                           },
+                           "artistName": "Ninho",
+                           "url": "https://itunes.apple.com/fr/album/un-poco/1363232719?i=1363233595",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique",
+                                          "Musiques du monde",
+                                          "France"
+                                          ],
+                           "durationInMillis": 188080,
+                           "releaseDate": "2018-03-30",
+                           "name": "Un Poco",
+                           "isrc": "FR9W11804465",
+                           "albumName": "M.I.L.S 2.0",
+                           "playParams": {
+                           "id": "1363233595",
+                           "kind": "song"
+                           },
+                           "trackNumber": 7,
+                           "composerName": "DBZ",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1337985724",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1337985724",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/9c/9b/17/9c9b17a6-a004-4b2f-0979-3c443d22ba02/mzaf_7375757230574753481.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/4f/73/d4/4f73d44e-b7eb-8a27-0838-522537bcfef6/source/{w}x{h}bb.jpg",
+                           "bgColor": "2a2a2a",
+                           "textColor1": "f6f1ed",
+                           "textColor2": "ebe0d5",
+                           "textColor3": "cdc9c6",
+                           "textColor4": "c4bcb3"
+                           },
+                           "artistName": "Drake",
+                           "url": "https://itunes.apple.com/fr/album/gods-plan/1337985714?i=1337985724",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 198970,
+                           "releaseDate": "2018-01-19",
+                           "name": "God's Plan",
+                           "isrc": "USCM51800004",
+                           "albumName": "Scary Hours - Single",
+                           "playParams": {
+                           "id": "1337985724",
+                           "kind": "song"
+                           },
+                           "trackNumber": 1,
+                           "composerName": "Aubrey Graham, Ronald LaTour, Daveon Jackson, Mathew Samuels & Noah Shebib",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1355066342",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1355066342",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/31/ad/e8/31ade8b1-e6fd-9f67-7739-feace6d6f3f0/mzaf_1201560494362836674.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/91/01/fd/9101fd53-3d87-40e2-51c4-10bc769e22ae/source/{w}x{h}bb.jpg",
+                           "bgColor": "afaba8",
+                           "textColor1": "080707",
+                           "textColor2": "242121",
+                           "textColor3": "292727",
+                           "textColor4": "403d3c"
+                           },
+                           "artistName": "Maître Gims & Super Sako",
+                           "url": "https://itunes.apple.com/fr/album/mi-gna-feat-hayko-ma%C3%AEtre-gims-remix/1355066096?i=1355066342",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 215680,
+                           "releaseDate": "2018-03-23",
+                           "name": "Mi Gna (feat. Hayko) [Maître Gims Remix]",
+                           "isrc": "FR9W11727519",
+                           "albumName": "Ceinture noire",
+                           "playParams": {
+                           "id": "1355066342",
+                           "kind": "song"
+                           },
+                           "trackNumber": 9,
+                           "composerName": "Super Sako"
+                           }
+                           },
+                           {
+                           "id": "1374087460",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1374087460",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/79/1f/90/791f90e5-5b54-2ccc-1451-fa2f9758d2ed/mzaf_2352616533580062127.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/73/fd/20/73fd209d-1f38-88e2-f0aa-ef3a4b674eb6/source/{w}x{h}bb.jpg",
+                           "bgColor": "18182a",
+                           "textColor1": "afc9e2",
+                           "textColor2": "95cbf1",
+                           "textColor3": "91a5bd",
+                           "textColor4": "7ca7c9"
+                           },
+                           "artistName": "Ariana Grande",
+                           "url": "https://itunes.apple.com/fr/album/no-tears-left-to-cry/1374085537?i=1374087460",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Pop",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 205947,
+                           "releaseDate": "2018-04-20",
+                           "name": "No Tears Left to Cry",
+                           "isrc": "USUM71805289",
+                           "albumName": "No Tears Left to Cry - Single",
+                           "playParams": {
+                           "id": "1374087460",
+                           "kind": "song"
+                           },
+                           "trackNumber": 1,
+                           "composerName": "Ariana Grande, Max Martin, Ilya Salmanzadeh & Savan Kotecha"
+                           }
+                           },
+                           {
+                           "id": "1332051743",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1332051743",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/88/21/bf/8821bf4f-5aa7-0bd7-034c-c493e2ef8ff1/mzaf_4132749020142357648.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/57/e7/35/57e735bd-011b-c830-97bb-3a7892d86226/source/{w}x{h}bb.jpg",
+                           "bgColor": "ffffff",
+                           "textColor1": "101010",
+                           "textColor2": "101010",
+                           "textColor3": "404040",
+                           "textColor4": "404040"
+                           },
+                           "artistName": "Vald",
+                           "url": "https://itunes.apple.com/fr/album/d%C3%A9saccord%C3%A9/1332051731?i=1332051743",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 214827,
+                           "releaseDate": "2018-01-05",
+                           "name": "Désaccordé",
+                           "isrc": "FRPET1700120",
+                           "albumName": "XEU",
+                           "playParams": {
+                           "id": "1332051743",
+                           "kind": "song"
+                           },
+                           "trackNumber": 9,
+                           "composerName": "Seezy",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1359707838",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1359707838",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/d0/0c/66/d00c6656-30f6-4013-7df2-5de7d53c77c3/mzaf_4805405497529036742.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/1f/7a/0b/1f7a0b59-8dac-9508-98c7-889e2b8a97bd/source/{w}x{h}bb.jpg",
+                           "bgColor": "020202",
+                           "textColor1": "f0f0f0",
+                           "textColor2": "c4c4c4",
+                           "textColor3": "c0c0c0",
+                           "textColor4": "9d9d9d"
+                           },
+                           "artistName": "Djadja & Dinaz",
+                           "url": "https://itunes.apple.com/fr/album/jsouris/1359707329?i=1359707838",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 197213,
+                           "releaseDate": "2018-03-16",
+                           "name": "J'souris",
+                           "isrc": "FR9W11804038",
+                           "albumName": "Le revers de la médaille",
+                           "playParams": {
+                           "id": "1359707838",
+                           "kind": "song"
+                           },
+                           "trackNumber": 3,
+                           "composerName": "RjacksProdz & Masta Explicit & Yannis Wade Beats",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1363233216",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1363233216",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/60/2e/cf/602ecfd9-6b70-9e11-6f25-7a1877e40531/mzaf_4833775244147320756.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/2b/28/99/2b289922-1ef4-959b-aef6-7b2094c0844a/source/{w}x{h}bb.jpg",
+                           "bgColor": "010101",
+                           "textColor1": "ffffff",
+                           "textColor2": "dedede",
+                           "textColor3": "cccccc",
+                           "textColor4": "b1b1b1"
+                           },
+                           "artistName": "Ninho",
+                           "url": "https://itunes.apple.com/fr/album/m-i-l-s-2-0/1363232719?i=1363233216",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique",
+                                          "Musiques du monde",
+                                          "France"
+                                          ],
+                           "durationInMillis": 173053,
+                           "releaseDate": "2018-03-30",
+                           "name": "M.I.L.S 2.0",
+                           "isrc": "FR9W11804459",
+                           "albumName": "M.I.L.S 2.0",
+                           "playParams": {
+                           "id": "1363233216",
+                           "kind": "song"
+                           },
+                           "trackNumber": 1,
+                           "composerName": "LVDR",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1363233587",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1363233587",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/07/c6/1c/07c61c9e-4e5f-034a-ebf6-eaabfa8010d2/mzaf_7845937971590221178.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/2b/28/99/2b289922-1ef4-959b-aef6-7b2094c0844a/source/{w}x{h}bb.jpg",
+                           "bgColor": "010101",
+                           "textColor1": "ffffff",
+                           "textColor2": "dedede",
+                           "textColor3": "cccccc",
+                           "textColor4": "b1b1b1"
+                           },
+                           "artistName": "Ninho",
+                           "url": "https://itunes.apple.com/fr/album/fendi/1363232719?i=1363233587",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique",
+                                          "Musiques du monde",
+                                          "France"
+                                          ],
+                           "durationInMillis": 210253,
+                           "releaseDate": "2018-03-30",
+                           "name": "Fendi",
+                           "isrc": "FR9W11804460",
+                           "albumName": "M.I.L.S 2.0",
+                           "playParams": {
+                           "id": "1363233587",
+                           "kind": "song"
+                           },
+                           "trackNumber": 2,
+                           "composerName": "SNK",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1359707840",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1359707840",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/d9/d8/5b/d9d85b57-2aa7-93f9-1a3d-80df804be161/mzaf_7072732912575841837.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/1f/7a/0b/1f7a0b59-8dac-9508-98c7-889e2b8a97bd/source/{w}x{h}bb.jpg",
+                           "bgColor": "020202",
+                           "textColor1": "f0f0f0",
+                           "textColor2": "c4c4c4",
+                           "textColor3": "c0c0c0",
+                           "textColor4": "9d9d9d"
+                           },
+                           "artistName": "Djadja & Dinaz",
+                           "url": "https://itunes.apple.com/fr/album/non-non/1359707329?i=1359707840",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 193956,
+                           "releaseDate": "2018-04-20",
+                           "name": "Non Non",
+                           "isrc": "FR9W11804302",
+                           "albumName": "Le revers de la médaille",
+                           "playParams": {
+                           "id": "1359707840",
+                           "kind": "song"
+                           },
+                           "trackNumber": 5,
+                           "composerName": "Moody Scrag",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1341705387",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1341705387",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/08/b6/9b/08b69bed-d54f-51e5-a2c5-703d3f73af76/mzaf_8715338512630729798.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 1500,
+                           "height": 1500,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/73/ff/28/73ff28bc-6144-d83f-e4ac-f76f66d1eff1/source/{w}x{h}bb.jpg",
+                           "bgColor": "0a090f",
+                           "textColor1": "e7b6a4",
+                           "textColor2": "d4a195",
+                           "textColor3": "bb9386",
+                           "textColor4": "ab837a"
+                           },
+                           "artistName": "Marwa Loud",
+                           "url": "https://itunes.apple.com/fr/album/billet/1341705155?i=1341705387",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 179538,
+                           "releaseDate": "2018-03-09",
+                           "name": "Billet",
+                           "isrc": "FR7IX1800240",
+                           "albumName": "Loud",
+                           "playParams": {
+                           "id": "1341705387",
+                           "kind": "song"
+                           },
+                           "trackNumber": 14,
+                           "composerName": "Kevin Kali & Soriba Konde"
+                           }
+                           },
+                           {
+                           "id": "1368157211",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1368157211",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/1f/99/50/1f995089-1a92-8a35-deb8-d6ad1112b7d7/mzaf_4506281732899607891.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 1425,
+                           "height": 1425,
+                           "url": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/30/f9/52/30f952dd-d4cd-a9be-907c-d66bf19bfe23/source/{w}x{h}bb.jpg",
+                           "bgColor": "030004",
+                           "textColor1": "fafefd",
+                           "textColor2": "33b6d5",
+                           "textColor3": "c9cbcb",
+                           "textColor4": "2991ab"
+                           },
+                           "artistName": "Cardi B, Bad Bunny & J Balvin",
+                           "url": "https://itunes.apple.com/fr/album/i-like-it/1368156323?i=1368157211",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 253390,
+                           "releaseDate": "2018-04-06",
+                           "name": "I Like It",
+                           "isrc": "USAT21801431",
+                           "albumName": "Invasion of Privacy",
+                           "playParams": {
+                           "id": "1368157211",
+                           "kind": "song"
+                           },
+                           "trackNumber": 7,
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1364709436",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1364709436",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/93/f0/07/93f007ed-7987-f0c3-9fb5-8a1f16fba7b8/mzaf_3238277755823048841.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/c6/ea/bc/c6eabcad-394d-d85d-f653-8e171dc67339/source/{w}x{h}bb.jpg",
+                           "bgColor": "0648e0",
+                           "textColor1": "ffffff",
+                           "textColor2": "3ec3fe",
+                           "textColor3": "cddaf8",
+                           "textColor4": "32aaf8"
+                           },
+                           "artistName": "Calvin Harris, Dua Lipa",
+                           "url": "https://itunes.apple.com/fr/album/one-kiss/1364709432?i=1364709436",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Dance",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 214847,
+                           "releaseDate": "2018-04-06",
+                           "name": "One Kiss",
+                           "isrc": "GBARL1800368",
+                           "albumName": "One Kiss - Single",
+                           "playParams": {
+                           "id": "1364709436",
+                           "kind": "song"
+                           },
+                           "trackNumber": 1,
+                           "composerName": "Dua Lipa, Adam Wiles & Jessie Reyez"
+                           }
+                           },
+                           {
+                           "id": "1370916533",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1370916533",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/e1/ac/54/e1ac54fd-fb02-8afe-df4a-e5f48c70e91b/mzaf_7521444073505224372.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/af/53/9d/af539d0b-b5e2-6d87-e2bc-32183b56c17f/source/{w}x{h}bb.jpg",
+                           "bgColor": "feffff",
+                           "textColor1": "0a0d0b",
+                           "textColor2": "1c211d",
+                           "textColor3": "3b3d3c",
+                           "textColor4": "494d4a"
+                           },
+                           "artistName": "Niska",
+                           "url": "https://itunes.apple.com/fr/album/country/1370915378?i=1370916533",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 208467,
+                           "releaseDate": "2018-04-20",
+                           "name": "Country",
+                           "isrc": "FR9W11804242",
+                           "albumName": "Game Over",
+                           "playParams": {
+                           "id": "1370916533",
+                           "kind": "song"
+                           },
+                           "trackNumber": 5,
+                           "composerName": "Tommy Beats",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1359707849",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1359707849",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/6e/d6/ed/6ed6edc5-180c-8507-bb47-b794c4914864/mzaf_4587760967470966551.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/1f/7a/0b/1f7a0b59-8dac-9508-98c7-889e2b8a97bd/source/{w}x{h}bb.jpg",
+                           "bgColor": "020202",
+                           "textColor1": "f0f0f0",
+                           "textColor2": "c4c4c4",
+                           "textColor3": "c0c0c0",
+                           "textColor4": "9d9d9d"
+                           },
+                           "artistName": "Djadja & Dinaz",
+                           "url": "https://itunes.apple.com/fr/album/brassard/1359707329?i=1359707849",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 193557,
+                           "releaseDate": "2018-04-18",
+                           "name": "Brassard",
+                           "isrc": "FR9W11804305",
+                           "albumName": "Le revers de la médaille",
+                           "playParams": {
+                           "id": "1359707849",
+                           "kind": "song"
+                           },
+                           "trackNumber": 8,
+                           "composerName": "AriBeatz",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1363899201",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1363899201",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/c2/0f/3d/c20f3de6-ff82-d043-62ed-5e30db74d458/mzaf_1287444301228709640.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/67/73/db/6773dbad-f17f-d5ac-20ae-fade4e82bb1d/source/{w}x{h}bb.jpg",
+                           "bgColor": "0f1117",
+                           "textColor1": "ffd000",
+                           "textColor2": "bbceec",
+                           "textColor3": "cea904",
+                           "textColor4": "99a8c1"
+                           },
+                           "artistName": "Ninho",
+                           "url": "https://itunes.apple.com/fr/album/bo%C3%AEte-auto/1363899192?i=1363899201",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 199147,
+                           "releaseDate": "2018-04-06",
+                           "name": "Boîte Auto",
+                           "isrc": "FR9W11729090",
+                           "albumName": "Taxi 5 (Bande originale inspirée du film)",
+                           "playParams": {
+                           "id": "1363899201",
+                           "kind": "song"
+                           },
+                           "trackNumber": 2,
+                           "composerName": "djamel Fezari & Aurélien Mazin",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1341705372",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1341705372",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/ab/8c/65/ab8c65e9-6d95-cd29-e79c-fe1190e227ef/mzaf_2569916284516340541.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 1500,
+                           "height": 1500,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/73/ff/28/73ff28bc-6144-d83f-e4ac-f76f66d1eff1/source/{w}x{h}bb.jpg",
+                           "bgColor": "0a090f",
+                           "textColor1": "e7b6a4",
+                           "textColor2": "d4a195",
+                           "textColor3": "bb9386",
+                           "textColor4": "ab837a"
+                           },
+                           "artistName": "Marwa Loud",
+                           "url": "https://itunes.apple.com/fr/album/bad-boy/1341705155?i=1341705372",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 187844,
+                           "releaseDate": "2018-03-09",
+                           "name": "Bad Boy",
+                           "isrc": "FR7IX1800130",
+                           "albumName": "Loud",
+                           "playParams": {
+                           "id": "1341705372",
+                           "kind": "song"
+                           },
+                           "trackNumber": 3,
+                           "composerName": "Kevin Kali & Soriba Konde"
+                           }
+                           },
+                           {
+                           "id": "1359707834",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1359707834",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/0c/68/b9/0c68b9be-cdd2-d9df-8b93-76f9e79370ec/mzaf_6269138522333655313.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 4000,
+                           "height": 4000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/1f/7a/0b/1f7a0b59-8dac-9508-98c7-889e2b8a97bd/source/{w}x{h}bb.jpg",
+                           "bgColor": "020202",
+                           "textColor1": "f0f0f0",
+                           "textColor2": "c4c4c4",
+                           "textColor3": "c0c0c0",
+                           "textColor4": "9d9d9d"
+                           },
+                           "artistName": "Djadja & Dinaz",
+                           "url": "https://itunes.apple.com/fr/album/tourner/1359707329?i=1359707834",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 200656,
+                           "releaseDate": "2018-04-20",
+                           "name": "Tourner",
+                           "isrc": "FR9W11804300",
+                           "albumName": "Le revers de la médaille",
+                           "playParams": {
+                           "id": "1359707834",
+                           "kind": "song"
+                           },
+                           "trackNumber": 2,
+                           "composerName": "AriBeatz",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1348322807",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1348322807",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/76/4b/36/764b361b-27cc-967b-d4d6-f202a377387e/mzaf_993866133264403299.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/b1/4d/b7/b14db799-ab79-98cb-4b04-9ed01392134b/source/{w}x{h}bb.jpg",
+                           "bgColor": "140f13",
+                           "textColor1": "e8a080",
+                           "textColor2": "dd8768",
+                           "textColor3": "be836a",
+                           "textColor4": "b56f57"
+                           },
+                           "artistName": "Naps",
+                           "url": "https://itunes.apple.com/fr/album/favela-feat-soolking/1348321036?i=1348322807",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Hip-hop/Rap",
+                                          "Musique"
+                                          ],
+                           "durationInMillis": 214467,
+                           "releaseDate": "2018-03-09",
+                           "name": "Favela (feat. Soolking)",
+                           "isrc": "FR10S1839978",
+                           "albumName": "À l'instinct",
+                           "playParams": {
+                           "id": "1348322807",
+                           "kind": "song"
+                           },
+                           "trackNumber": 12,
+                           "composerName": "Chéfi & Naps",
+                           "contentRating": "explicit"
+                           }
+                           },
+                           {
+                           "id": "1309189593",
+                           "type": "songs",
+                           "href": "/v1/catalog/fr/songs/1309189593",
+                           "attributes": {
+                           "previews": [
+                                        {
+                                        "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/2d/59/f8/2d59f8b4-172b-dc3c-89c6-beb42f43d1c0/mzaf_2548873757945378570.plus.aac.p.m4a"
+                                        }
+                                        ],
+                           "artwork": {
+                           "width": 3000,
+                           "height": 3000,
+                           "url": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/d0/f0/04/d0f004ca-0354-25e3-4e02-09d4964079fd/source/{w}x{h}bb.jpg",
+                           "bgColor": "aa0719",
+                           "textColor1": "efe7de",
+                           "textColor2": "e4c7bf",
+                           "textColor3": "e1bab7",
+                           "textColor4": "d8a09e"
+                           },
+                           "artistName": "Therapie TAXI",
+                           "url": "https://itunes.apple.com/fr/album/hit-sale-feat-rom%C3%A9o-elvis/1309188928?i=1309189593",
+                           "discNumber": 1,
+                           "genreNames": [
+                                          "Pop",
+                                          "Musique",
+                                          "Musiques du monde"
+                                          ],
+                           "durationInMillis": 184400,
+                           "releaseDate": "2018-02-02",
+                           "name": "Hit Sale (feat. Roméo Elvis)",
+                           "isrc": "FR7O51700210",
+                           "albumName": "Hit Sale",
+                           "playParams": {
+                           "id": "1309189593",
+                           "kind": "song"
+                           },
+                           "trackNumber": 1,
+                           "composerName": "Raphael Faget Zaoui, Adelaide Chabannes De Balsac, Renaud Bizart, Félix Gros & Romeo Van Leaken"
+                           }
+                           }
+                           ]
+                  }
+                  ]
+    }
+}

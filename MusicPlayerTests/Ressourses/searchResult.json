@@ -1,0 +1,429 @@
+
+{
+    "results": {
+        "songs": {
+            "href": "/v1/catalog/fr/search?limit=10&term=Hello&types=songs",
+            "next": "/v1/catalog/fr/search?offset=10&term=Hello&types=songs",
+            "data": [
+                     {
+                     "id": "1051332387",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/1051332387",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/7e/19/3c/7e193cde-0400-918d-cd63-afd1ce2b633d/mzaf_3826977595309714439.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 4000,
+                     "height": 4000,
+                     "url": "https://is5-ssl.mzstatic.com/image/thumb/Music19/v4/17/36/bc/1736bc33-e3b5-f91d-d139-04fdd21d5682/source/{w}x{h}bb.jpg",
+                     "bgColor": "25201a",
+                     "textColor1": "ebe4d3",
+                     "textColor2": "e1d7c2",
+                     "textColor3": "c3bdae",
+                     "textColor4": "bbb2a1"
+                     },
+                     "artistName": "Adele",
+                     "url": "https://itunes.apple.com/fr/album/hello/1051331933?i=1051332387",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Pop",
+                                    "Musique"
+                                    ],
+                     "durationInMillis": 295502,
+                     "releaseDate": "2015-10-23",
+                     "name": "Hello",
+                     "isrc": "GBBKS1500214",
+                     "albumName": "25",
+                     "playParams": {
+                     "id": "1051332387",
+                     "kind": "song"
+                     },
+                     "trackNumber": 1,
+                     "composerName": "Adele Adkins & Greg Kurstin"
+                     }
+                     },
+                     {
+                     "id": "7668867",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/7668867",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/87/22/5a/87225a50-51a5-9d8d-5291-b710ed9423b1/mzaf_7974631142452658554.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 795,
+                     "height": 800,
+                     "url": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/2f/21/c6/2f21c64f-1ef6-c208-c9c8-6148cc9dde8e/source/{w}x{h}bb.jpg",
+                     "bgColor": "050c0f",
+                     "textColor1": "fdfffc",
+                     "textColor2": "e2aea4",
+                     "textColor3": "cbcecc",
+                     "textColor4": "b68e86"
+                     },
+                     "artistName": "Lionel Richie",
+                     "url": "https://itunes.apple.com/fr/album/hello/7668038?i=7668867",
+                     "discNumber": 2,
+                     "genreNames": [
+                                    "R&B/Soul",
+                                    "Musique",
+                                    "Pop",
+                                    "Pop contemporaine pour adulte",
+                                    "Soft rock",
+                                    "Pop/Rock",
+                                    "Quiet storm",
+                                    "Soul",
+                                    "Funk",
+                                    "R&B contemporain",
+                                    "Rock"
+                                    ],
+                     "durationInMillis": 248253,
+                     "releaseDate": "1983-10-11",
+                     "name": "Hello",
+                     "isrc": "USMO18390012",
+                     "albumName": "The Definitive Collection",
+                     "playParams": {
+                     "id": "7668867",
+                     "kind": "song"
+                     },
+                     "trackNumber": 4,
+                     "composerName": "Lionel Richie"
+                     }
+                     },
+                     {
+                     "id": "1181498860",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/1181498860",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/69/2b/56/692b56ba-33f3-c9ec-5605-85dbf4ec1528/mzaf_316027574907080083.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 1440,
+                     "height": 1440,
+                     "url": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/95/a0/ce/95a0ceb0-4ac1-c02c-ff0b-5e3ace266b1b/source/{w}x{h}bb.jpg",
+                     "bgColor": "e7e5e6",
+                     "textColor1": "0d1123",
+                     "textColor2": "0c224d",
+                     "textColor3": "393b4a",
+                     "textColor4": "37496b"
+                     },
+                     "artistName": "Martin Solveig & Dragonette",
+                     "url": "https://itunes.apple.com/fr/album/hello/1181498388?i=1181498860",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Dance",
+                                    "Musique"
+                                    ],
+                     "durationInMillis": 281430,
+                     "releaseDate": "2010-09-06",
+                     "name": "Hello",
+                     "isrc": "FR2PA1000020",
+                     "albumName": "Hello - Single",
+                     "playParams": {
+                     "id": "1181498860",
+                     "kind": "song"
+                     },
+                     "trackNumber": 1,
+                     "composerName": "Martin Solveig & Martina Sorbara"
+                     }
+                     },
+                     {
+                     "id": "1051366040",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/1051366040",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/88/8f/37/888f3769-9790-cd5c-3c1b-ba76baa7ab6e/mzaf_8479040540653746864.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 1400,
+                     "height": 1400,
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1a/5f/82/1a5f82c3-7d34-d368-e77f-025fe0742dda/source/{w}x{h}bb.jpg",
+                     "bgColor": "242422",
+                     "textColor1": "f2f0e6",
+                     "textColor2": "e0ddd4",
+                     "textColor3": "c9c7bf",
+                     "textColor4": "bbb8b1"
+                     },
+                     "artistName": "Adele",
+                     "url": "https://itunes.apple.com/fr/album/hello/1051365605?i=1051366040",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Pop",
+                                    "Musique"
+                                    ],
+                     "durationInMillis": 295502,
+                     "releaseDate": "2015-10-23",
+                     "name": "Hello",
+                     "isrc": "GBBKS1500214",
+                     "albumName": "Hello - Single",
+                     "playParams": {
+                     "id": "1051366040",
+                     "kind": "song"
+                     },
+                     "trackNumber": 1,
+                     "composerName": "Adele Adkins & Greg Kurstin"
+                     }
+                     },
+                     {
+                     "id": "332707049",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/332707049",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/30/c3/f9/mzm.mqiknwkj.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 600,
+                     "height": 600,
+                     "url": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/35/10/a7/3510a731-c928-7352-a8fd-ef839c863c72/source/{w}x{h}bb.jpg",
+                     "bgColor": "fefefe",
+                     "textColor1": "090808",
+                     "textColor2": "272727",
+                     "textColor3": "3a3939",
+                     "textColor4": "525252"
+                     },
+                     "artistName": "Beyoncé",
+                     "url": "https://itunes.apple.com/fr/album/hello/332706800?i=332707049",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Pop",
+                                    "Musique",
+                                    "Pop contemporaine pour adulte",
+                                    "R&B/Soul",
+                                    "R&B contemporain",
+                                    "Rock"
+                                    ],
+                     "durationInMillis": 255676,
+                     "releaseDate": "2008-11-18",
+                     "name": "Hello",
+                     "isrc": "USSM10804758",
+                     "albumName": "I Am... Sasha Fierce (Platinum Edition)",
+                     "playParams": {
+                     "id": "332707049",
+                     "kind": "song"
+                     },
+                     "trackNumber": 11,
+                     "composerName": "Beyoncé, Beyoncé Knowles, Ramon Owen, David Quiñones & Evan Kidd Bogart"
+                     }
+                     },
+                     {
+                     "id": "1182503512",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/1182503512",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/fa/8f/72/fa8f72d4-7866-a228-5f12-d7515ea25195/mzaf_9171494108281433987.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 1440,
+                     "height": 1440,
+                     "url": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/43/ba/12/43ba12ac-8e63-8fc5-f68b-dd2466f78ec1/source/{w}x{h}bb.jpg",
+                     "bgColor": "e6e6e8",
+                     "textColor1": "060a1b",
+                     "textColor2": "65080d",
+                     "textColor3": "333644",
+                     "textColor4": "7f3439"
+                     },
+                     "artistName": "Martin Solveig & Dragonette",
+                     "url": "https://itunes.apple.com/fr/album/hello/1182503307?i=1182503512",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Dance",
+                                    "Musique"
+                                    ],
+                     "durationInMillis": 281430,
+                     "releaseDate": "2010-09-06",
+                     "name": "Hello",
+                     "isrc": "FR2PA1000020",
+                     "albumName": "Smash",
+                     "playParams": {
+                     "id": "1182503512",
+                     "kind": "song"
+                     },
+                     "trackNumber": 1,
+                     "composerName": "Martin Solveig & Martina Sorbara"
+                     }
+                     },
+                     {
+                     "id": "211320329",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/211320329",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/dc/28/a2/dc28a2fa-a728-5d19-79bc-58cc6c8ac413/mzaf_6521679005047017680.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 1400,
+                     "height": 1400,
+                     "url": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/d1/13/64/d113640a-3ca5-2d08-6fc0-7fa06fc12fc8/source/{w}x{h}bb.jpg",
+                     "bgColor": "1c0c00",
+                     "textColor1": "f3d1b6",
+                     "textColor2": "f49f10",
+                     "textColor3": "c8a992",
+                     "textColor4": "c9810d"
+                     },
+                     "artistName": "HELLO",
+                     "url": "https://itunes.apple.com/fr/album/new-york-groove/211319791?i=211320329",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Rock",
+                                    "Musique",
+                                    "Rock glamour",
+                                    "R&B/Soul"
+                                    ],
+                     "durationInMillis": 165387,
+                     "releaseDate": "1973-01-01",
+                     "name": "New York Groove",
+                     "isrc": "GBBLY0605574",
+                     "albumName": "The Glam Singles Collection",
+                     "playParams": {
+                     "id": "211320329",
+                     "kind": "song"
+                     },
+                     "trackNumber": 13,
+                     "composerName": "Ballard"
+                     }
+                     },
+                     {
+                     "id": "1048484246",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/1048484246",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/0f/a8/f8/0fa8f8ae-da46-9ae0-6b07-381072e65117/mzaf_142156974913371743.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 4000,
+                     "height": 4000,
+                     "url": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/6e/e1/97/6ee1976d-e9a5-f8a1-807e-cd45d8a94c22/source/{w}x{h}bb.jpg",
+                     "bgColor": "fbfdfc",
+                     "textColor1": "000c11",
+                     "textColor2": "010e11",
+                     "textColor3": "323c40",
+                     "textColor4": "333e40"
+                     },
+                     "artistName": "Soprano",
+                     "url": "https://itunes.apple.com/fr/album/hello/1048483827?i=1048484246",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Hip-hop/Rap",
+                                    "Musique",
+                                    "Musiques du monde",
+                                    "France"
+                                    ],
+                     "durationInMillis": 225667,
+                     "releaseDate": "2014-10-10",
+                     "name": "Hello",
+                     "isrc": "FRZ111400726",
+                     "albumName": "Cosmopolitanie (En route vers l'Everest)",
+                     "playParams": {
+                     "id": "1048484246",
+                     "kind": "song"
+                     },
+                     "trackNumber": 6,
+                     "composerName": "Soprano & Fred Savio"
+                     }
+                     },
+                     {
+                     "id": "1350527608",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/1350527608",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/0c/fd/2f/0cfd2fb8-a5e1-3433-a706-c6b00b63dfe6/mzaf_661442068101959534.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 2000,
+                     "height": 2000,
+                     "url": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/0f/71/5f/0f715ff0-be37-6097-bb32-3d101c8836e0/source/{w}x{h}bb.jpg",
+                     "bgColor": "1f100d",
+                     "textColor1": "f77cb6",
+                     "textColor2": "51a0e7",
+                     "textColor3": "cc6694",
+                     "textColor4": "4783bb"
+                     },
+                     "artistName": "Flatbush Zombies",
+                     "url": "https://itunes.apple.com/fr/album/hell-o/1350527606?i=1350527608",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Hip-hop/Rap",
+                                    "Musique"
+                                    ],
+                     "durationInMillis": 172545,
+                     "releaseDate": "2018-04-06",
+                     "name": "HELL-O",
+                     "isrc": "QZ2D51800023",
+                     "albumName": "Vacation In Hell",
+                     "playParams": {
+                     "id": "1350527608",
+                     "kind": "song"
+                     },
+                     "trackNumber": 1,
+                     "contentRating": "explicit"
+                     }
+                     },
+                     {
+                     "id": "940845269",
+                     "type": "songs",
+                     "href": "/v1/catalog/fr/songs/940845269",
+                     "attributes": {
+                     "previews": [
+                                  {
+                                  "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/1a/54/6d/1a546dba-9cd9-ac94-894a-b73880763374/mzaf_9157484217677444459.plus.aac.p.m4a"
+                                  }
+                                  ],
+                     "artwork": {
+                     "width": 1500,
+                     "height": 1500,
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/b2/76/ff/b276ff71-28ad-6178-9e8e-68cff835c73b/source/{w}x{h}bb.jpg",
+                     "bgColor": "262722",
+                     "textColor1": "ccc8d1",
+                     "textColor2": "a3c3e4",
+                     "textColor3": "aaa7ae",
+                     "textColor4": "8aa3bd"
+                     },
+                     "artistName": "J. Cole",
+                     "url": "https://itunes.apple.com/fr/album/hello/940845223?i=940845269",
+                     "discNumber": 1,
+                     "genreNames": [
+                                    "Hip-hop/Rap",
+                                    "Musique"
+                                    ],
+                     "durationInMillis": 219182,
+                     "releaseDate": "2014-12-09",
+                     "name": "Hello",
+                     "isrc": "USQX91402599",
+                     "albumName": "2014 Forest Hills Drive",
+                     "playParams": {
+                     "id": "940845269",
+                     "kind": "song"
+                     },
+                     "trackNumber": 10,
+                     "composerName": "pending",
+                     "contentRating": "explicit"
+                     }
+                     }
+                     ]
+        }
+    }
+}
